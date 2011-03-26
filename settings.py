@@ -1,4 +1,4 @@
-# Django settings for myproject project.
+3# Django settings for myproject project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'id-wp+t-n*#5zdq+)c4o4q&nud0fk=b3e1(_$2e^-wrlvk^$1*'
+SECRET_KEY = 'jksethw8tryuworjmiguy wa3-21-249==123_^2424#@%^&HIMM'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
